@@ -1,1 +1,3 @@
-# Your code goes here!
+puts "Cassandra is fine asf"
+
+
